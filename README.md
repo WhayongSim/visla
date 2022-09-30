@@ -1,2 +1,2 @@
 # visla
-visla_apply
+visla_recruit
